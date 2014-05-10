@@ -1,0 +1,5 @@
+
+brew install go
+
+go run first.go
+
